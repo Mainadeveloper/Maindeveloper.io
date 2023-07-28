@@ -1,0 +1,27 @@
+.button3 {
+    /* Background and Border */
+    background-color:black;
+    border: 20px;
+    color: white;
+    text-align: left;
+    /* Padding and Margin */
+    padding: 10px 20px;
+    margin: 20px;
+    border-radius: 10px;
+   
+    /* Text Styling */
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+   
+    /* Hover Effects */
+    cursor: pointer;
+    cursor: pointer;
+    position: absolute;
+    top: 330%;
+    right: 82%;
+   
+   }
+   .button3:active {
+       background-color: blue;
+     }

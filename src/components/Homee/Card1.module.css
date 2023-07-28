@@ -1,0 +1,42 @@
+.container {
+   left: 0%;
+    cursor: pointer;
+    position: absolute;
+    top: 420%;
+    right:0%;
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  .title1 {
+    font-size:30px ;
+    font-weight: bold;
+    color: #B67412;
+ 
+  }
+  .title2 {
+    font-size: 30px;
+    Color: black;
+    font-weight: bold;
+}
+  .title3 {
+    font-size: medium;
+    color:black;
+    text-align: center;
+
+  }
+  .left {
+    text-align: left; 
+
+  }
+  .center {
+    text-align: center; 
+
+  }
+  .cont1{
+    display: flex;
+    align-Items: baseline;
+  }

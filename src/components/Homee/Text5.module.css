@@ -1,0 +1,13 @@
+.title{
+        height: 300px;
+        width: 250px;
+        align-items: right;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr); /* Grid columns */
+        grid-template-rows: auto;
+        justify-self: right; /* Horizontal alignment */
+        align-self: right; 
+        position: absolute;
+        top: 850%;
+        left: 40%;
+      }

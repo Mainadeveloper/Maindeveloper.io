@@ -1,0 +1,16 @@
+.container {
+    text-align: left;
+    color: black;  
+    cursor: pointer;
+    position: absolute;
+    top: 300%;
+    right: 65%;
+}
+.title1 {
+    font-size:30px ;
+    font-weight: bold;
+    color: #2CCBBB;
+}
+.title2 {
+    font-size: 20px;
+}

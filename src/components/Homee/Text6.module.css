@@ -1,0 +1,40 @@
+.container1 {
+     text-align: left;
+     cursor: pointer;
+     position: absolute;
+     top: 770%;
+     right:65%;
+     height: 100%;
+}
+.title1 {
+   font-size:30px ;
+   font-weight: bold;
+   color:#2CCBBB;
+   text-align: left;
+ }
+ .p1 {
+   font-size: 15px;
+   Color: black ;
+   text-align: left;
+   
+}
+.container2{
+    text-align: right;
+    cursor: pointer;
+     position: absolute;
+     top: 770%;
+     left:80%;
+     height: 100%;
+}
+.title3 {
+    font-size:30px ;
+    font-weight: bold;
+    color:#2CCBBB;
+    text-align: right;
+  }
+  .p2 {
+    font-size: 15px;
+    Color: black ;
+    text-align: right;
+    
+ }

@@ -1,0 +1,13 @@
+.container {
+    text-align: center;
+    cursor: pointer;
+    position: absolute;
+    top: 400%;
+    right:37%
+    
+}
+.title1 {
+    font-size:30px ;
+    font-weight: bold;
+    color: #2CCBBB;
+}

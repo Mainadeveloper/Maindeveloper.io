@@ -1,0 +1,42 @@
+.bar-container {
+    display: flex;
+    justify-content: center;
+    max-width: 1000px;
+  }
+  
+  .bar {
+    display: flex;
+    align-items: center;
+    max-width: 500px;
+    background-color: rgb(209, 209, 209);
+    border-radius: 30px;
+    padding: 10px 60px 10px 10px;
+    position: absolute;
+    top: 150%;
+    left: 35%;
+    
+  }
+  
+  .bar input[type="text"] {
+    flex: 1;
+    border: none;
+    max-width: 500px;
+    outline: none;
+    padding: 5px;
+    font-size: 14px;
+    background-color: rgb(209, 209, 209) ;
+  }
+  
+  .bar button {
+    background-color: rgb(209, 209, 209);
+    border: none;
+    outline: none;
+    padding: 5px 0px 0px ;
+    border-radius: 5px ;
+    cursor: pointer;
+    font-size: 12px;
+  
+    
+  }
+
+  

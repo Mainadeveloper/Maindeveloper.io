@@ -1,0 +1,38 @@
+.container {
+     text-align: left;
+     left: 0%;
+     cursor: pointer;
+     position: absolute;
+     top: 530%;
+     right:0%;
+     background-color: gainsboro;
+     height: 100%;
+    
+     
+
+   
+    
+}
+.title1 {
+    font-size:35px ;
+    font-weight: bold;
+    color:#2CCBBB;
+    
+  }
+  .title2 {
+    font-size: 20px;
+    Color: maroon ;
+    font-weight: bold;
+    
+   
+}
+  .title3 {
+    font-size: 15px;
+    color:black
+  }
+  .list1 {
+    
+      list-style-type: square; 
+      color:maroon ;
+    
+  }

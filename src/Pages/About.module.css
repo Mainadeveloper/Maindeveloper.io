@@ -1,0 +1,10 @@
+.about-section-container{
+    cursor: pointer;
+    position: absolute;
+    top: 100%;
+    right:37%;
+    align-items: left;
+}
+.primary-subheading {
+    color: black;
+    }

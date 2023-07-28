@@ -1,0 +1,27 @@
+.button2 {
+    /* Background and Border */
+    background-color:rgb(141, 80, 0);
+    border: 20px;
+    color: white;
+    text-align: left;
+    /* Padding and Margin */
+    padding: 10px 20px;
+    margin: 20px;
+    border-radius: 10px;
+   
+    /* Text Styling */
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+   
+    /* Hover Effects */
+   
+    cursor: pointer;
+ position: absolute;
+ top: 265%;
+ left: 20%;
+   
+   }
+   .button2:active {
+       background-color: black;
+     }

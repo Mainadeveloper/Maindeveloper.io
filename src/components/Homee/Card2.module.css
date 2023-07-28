@@ -1,0 +1,47 @@
+.container1 {
+  left: 0%;
+  cursor: pointer;
+  position: absolute;
+  top: 843%;
+  right:0%;
+  height :90%;
+    background-color:#2CCBBB;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+  
+  .title1 {
+    font-size:15px ;
+    font-weight: bold;
+    color: Black;  
+    display: flex;
+
+    
+    
+  }
+  .laptops {
+    margin-right: 10px;
+    
+   
+  }
+  .phones {
+    margin-inline: 30px;
+   
+ 
+  }
+  .shoes {
+    margin-left: 10px;
+  }
+  .container2{
+    text-align: center;
+    left: 0%;
+  cursor: pointer;
+  position: absolute;
+  top: 835%;
+  right:0%;
+  }
+  .title2{
+    font-size: 40px;
+    color: Black;
+  }
